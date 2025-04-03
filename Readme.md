@@ -98,8 +98,8 @@ src/test/java/
 ### Configuração do Projeto
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/folha-pagamento-peestrada.git
-   cd folha-pagamento-peestrada
+   git clone https://github.com/Lekler/POO-Ap1-PeEstrada.git
+   cd POO-Ap1-PeEstrada
    ```
 
 2. Importe o projeto no IntelliJ IDEA:
