@@ -204,5 +204,7 @@ Este padrão de arquitetura facilita a manutenção e evolução do código, per
 Projeto desenvolvido como trabalho da disciplina de Programação Orientada a Objetos do curso de Ciência de Dados e Inteligência Artificial.
 
 Professor: Luando A. Veloso
+
 Aluno: Alexandre R. Cordeiro
+
 Data: 03/04/2025
